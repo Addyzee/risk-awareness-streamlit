@@ -1,0 +1,908 @@
+id,Spread_Ways
+1000205,Blood transfusion
+1000205,Droplets from infected people
+1000205,Airborne
+1000205,Direct contact with infected people.
+1000205,Touching contaminated objects/surfaces
+1000205,Sexual intercourse contact
+1000205,Contact with contaminated animals
+1000205,Mosquito bites
+1000205,Eating contaminated food
+1000205,Drinking unclean water
+1000205,Don't know
+1000176,Droplets from infected people
+1000176,Direct contact with infected people.
+1000176,Touching contaminated objects/surfaces
+1000301,Droplets from infected people
+1000301,Direct contact with infected people.
+1000301,Touching contaminated objects/surfaces
+1000315,Airborne
+1000187,Airborne
+1000187,Direct contact with infected people.
+1000187,Touching contaminated objects/surfaces
+1000171,Don't know
+1000212,Blood transfusion
+1000212,Droplets from infected people
+1000212,Direct contact with infected people.
+1000212,Touching contaminated objects/surfaces
+1000212,Sexual intercourse contact
+1000212,Contact with contaminated animals
+1000217,Airborne
+1000217,Direct contact with infected people.
+1000217,Touching contaminated objects/surfaces
+1000237,Droplets from infected people
+1000237,Direct contact with infected people.
+1000237,Sexual intercourse contact
+1000121,Droplets from infected people
+1000121,Airborne
+1000121,Direct contact with infected people.
+1000121,Touching contaminated objects/surfaces
+1000121,Sexual intercourse contact
+1000121,Contact with contaminated animals
+1000285,Droplets from infected people
+1000285,Direct contact with infected people.
+1000285,Touching contaminated objects/surfaces
+1000233,Droplets from infected people
+1000233,Direct contact with infected people.
+1000261,Droplets from infected people
+1000261,Airborne
+1000261,Direct contact with infected people.
+1000104,Droplets from infected people
+1000104,Airborne
+1000104,Direct contact with infected people.
+1000104,Touching contaminated objects/surfaces
+1000104,Sexual intercourse contact
+1000104,Contact with contaminated animals
+1000147,Blood transfusion
+1000147,Droplets from infected people
+1000147,Direct contact with infected people.
+1000147,Touching contaminated objects/surfaces
+1000147,Contact with contaminated animals
+1000147,Don't know
+1000174,Airborne
+1000174,Direct contact with infected people.
+1000174,Touching contaminated objects/surfaces
+1000225,Blood transfusion
+1000225,Droplets from infected people
+1000225,Airborne
+1000225,Direct contact with infected people.
+1000225,Touching contaminated objects/surfaces
+1000225,Contact with contaminated animals
+1000275,Droplets from infected people
+1000275,Direct contact with infected people.
+1000275,Touching contaminated objects/surfaces
+1000275,Contact with contaminated animals
+1000119,Droplets from infected people
+1000119,Direct contact with infected people.
+1000119,Touching contaminated objects/surfaces
+1000128,Droplets from infected people
+1000128,Airborne
+1000128,Direct contact with infected people.
+1000128,Touching contaminated objects/surfaces
+1000128,Contact with contaminated animals
+1000128,Eating contaminated food
+1000141,Droplets from infected people
+1000141,Airborne
+1000141,Direct contact with infected people.
+1000141,Touching contaminated objects/surfaces
+1000185,Droplets from infected people
+1000185,Airborne
+1000185,Direct contact with infected people.
+1000185,Touching contaminated objects/surfaces
+1000185,Contact with contaminated animals
+1000122,Droplets from infected people
+1000122,Touching contaminated objects/surfaces
+1000167,Droplets from infected people
+1000167,Airborne
+1000167,Direct contact with infected people.
+1000167,Touching contaminated objects/surfaces
+1000167,Sexual intercourse contact
+1000167,Contact with contaminated animals
+1000167,Eating contaminated food
+1000167,Drinking unclean water
+1000117,Droplets from infected people
+1000117,Airborne
+1000117,Direct contact with infected people.
+1000117,Touching contaminated objects/surfaces
+1000117,Sexual intercourse contact
+1000111,Droplets from infected people
+1000111,Airborne
+1000111,Direct contact with infected people.
+1000111,Touching contaminated objects/surfaces
+1000111,Sexual intercourse contact
+1000111,Contact with contaminated animals
+1000290,Droplets from infected people
+1000290,Direct contact with infected people.
+1000290,Touching contaminated objects/surfaces
+1000290,Contact with contaminated animals
+1000131,Airborne
+1000131,Direct contact with infected people.
+1000131,Touching contaminated objects/surfaces
+1000131,Contact with contaminated animals
+1000226,Droplets from infected people
+1000226,Airborne
+1000226,Direct contact with infected people.
+1000226,Touching contaminated objects/surfaces
+1000289,Droplets from infected people
+1000289,Direct contact with infected people.
+1000204,Droplets from infected people
+1000204,Airborne
+1000204,Direct contact with infected people.
+1000204,Touching contaminated objects/surfaces
+1000190,Droplets from infected people
+1000190,Direct contact with infected people.
+1000190,Touching contaminated objects/surfaces
+1000214,Blood transfusion
+1000214,Droplets from infected people
+1000214,Direct contact with infected people.
+1000214,Touching contaminated objects/surfaces
+1000214,Sexual intercourse contact
+1000199,Droplets from infected people
+1000199,Airborne
+1000199,Direct contact with infected people.
+1000199,Touching contaminated objects/surfaces
+1000199,Sexual intercourse contact
+1000199,Contact with contaminated animals
+1000155,Blood transfusion
+1000155,Droplets from infected people
+1000155,Direct contact with infected people.
+1000155,Sexual intercourse contact
+1000135,Blood transfusion
+1000135,Droplets from infected people
+1000135,Airborne
+1000135,Direct contact with infected people.
+1000135,Touching contaminated objects/surfaces
+1000135,Sexual intercourse contact
+1000177,Droplets from infected people
+1000177,Airborne
+1000177,Direct contact with infected people.
+1000177,Touching contaminated objects/surfaces
+1000177,Contact with contaminated animals
+1000116,Blood transfusion
+1000116,Droplets from infected people
+1000116,Airborne
+1000116,Direct contact with infected people.
+1000116,Touching contaminated objects/surfaces
+1000116,Sexual intercourse contact
+1000116,Contact with contaminated animals
+1000116,Eating contaminated food
+1000206,Droplets from infected people
+1000206,Airborne
+1000206,Direct contact with infected people.
+1000206,Touching contaminated objects/surfaces
+1000206,Sexual intercourse contact
+1000206,Contact with contaminated animals
+1000318,Droplets from infected people
+1000318,Airborne
+1000318,Direct contact with infected people.
+1000318,Touching contaminated objects/surfaces
+1000318,Contact with contaminated animals
+1000271,Droplets from infected people
+1000271,Direct contact with infected people.
+1000271,Touching contaminated objects/surfaces
+1000271,Eating contaminated food
+1000271,Drinking unclean water
+1000295,Droplets from infected people
+1000295,Direct contact with infected people.
+1000295,Touching contaminated objects/surfaces
+1000295,Contact with contaminated animals
+1000158,Droplets from infected people
+1000158,Direct contact with infected people.
+1000158,Touching contaminated objects/surfaces
+1000158,Sexual intercourse contact
+1000158,Contact with contaminated animals
+1000246,Droplets from infected people
+1000246,Airborne
+1000246,Direct contact with infected people.
+1000246,Touching contaminated objects/surfaces
+1000196,Droplets from infected people
+1000196,Airborne
+1000196,Direct contact with infected people.
+1000196,Touching contaminated objects/surfaces
+1000196,Sexual intercourse contact
+1000189,Droplets from infected people
+1000189,Airborne
+1000268,Blood transfusion
+1000268,Droplets from infected people
+1000268,Airborne
+1000268,Direct contact with infected people.
+1000268,Touching contaminated objects/surfaces
+1000203,Blood transfusion
+1000203,Droplets from infected people
+1000203,Airborne
+1000203,Direct contact with infected people.
+1000114,Direct contact with infected people.
+1000114,Touching contaminated objects/surfaces
+1000219,Droplets from infected people
+1000219,Direct contact with infected people.
+1000219,Touching contaminated objects/surfaces
+1000302,Blood transfusion
+1000302,Droplets from infected people
+1000302,Airborne
+1000302,Direct contact with infected people.
+1000302,Touching contaminated objects/surfaces
+1000302,Sexual intercourse contact
+1000302,Eating contaminated food
+1000302,Drinking unclean water
+1000260,Blood transfusion
+1000260,Droplets from infected people
+1000260,Direct contact with infected people.
+1000260,Touching contaminated objects/surfaces
+1000260,Sexual intercourse contact
+1000260,Contact with contaminated animals
+1000239,Droplets from infected people
+1000239,Airborne
+1000239,Direct contact with infected people.
+1000239,Touching contaminated objects/surfaces
+1000239,Contact with contaminated animals
+1000194,Airborne
+1000194,Direct contact with infected people.
+1000194,Touching contaminated objects/surfaces
+1000198,Blood transfusion
+1000198,Droplets from infected people
+1000198,Direct contact with infected people.
+1000198,Touching contaminated objects/surfaces
+1000198,Sexual intercourse contact
+1000198,Contact with contaminated animals
+1000162,Blood transfusion
+1000162,Droplets from infected people
+1000136,Droplets from infected people
+1000136,Airborne
+1000136,Direct contact with infected people.
+1000136,Touching contaminated objects/surfaces
+1000181,Blood transfusion
+1000181,Droplets from infected people
+1000181,Airborne
+1000181,Direct contact with infected people.
+1000181,Touching contaminated objects/surfaces
+1000181,Sexual intercourse contact
+1000210,Direct contact with infected people.
+1000139,Droplets from infected people
+1000139,Airborne
+1000139,Direct contact with infected people.
+1000139,Touching contaminated objects/surfaces
+1000133,Droplets from infected people
+1000133,Airborne
+1000133,Direct contact with infected people.
+1000133,Touching contaminated objects/surfaces
+1000243,Blood transfusion
+1000243,Droplets from infected people
+1000243,Airborne
+1000243,Direct contact with infected people.
+1000169,Airborne
+1000169,Direct contact with infected people.
+1000169,Touching contaminated objects/surfaces
+1000182,Airborne
+1000182,Direct contact with infected people.
+1000182,Touching contaminated objects/surfaces
+1000170,Droplets from infected people
+1000170,Airborne
+1000170,Direct contact with infected people.
+1000170,Touching contaminated objects/surfaces
+1000170,Contact with contaminated animals
+1000101,Droplets from infected people
+1000101,Direct contact with infected people.
+1000101,Touching contaminated objects/surfaces
+1000101,Contact with contaminated animals
+1000101,Eating contaminated food
+1000267,Droplets from infected people
+1000267,Airborne
+1000267,Direct contact with infected people.
+1000267,Touching contaminated objects/surfaces
+1000134,Droplets from infected people
+1000134,Airborne
+1000134,Direct contact with infected people.
+1000134,Touching contaminated objects/surfaces
+1000134,Contact with contaminated animals
+1000134,Eating contaminated food
+1000134,Drinking unclean water
+1000221,Droplets from infected people
+1000221,Airborne
+1000221,Direct contact with infected people.
+1000221,Touching contaminated objects/surfaces
+1000148,Droplets from infected people
+1000148,Airborne
+1000148,Direct contact with infected people.
+1000148,Touching contaminated objects/surfaces
+1000252,Airborne
+1000252,Direct contact with infected people.
+1000274,Blood transfusion
+1000274,Droplets from infected people
+1000274,Airborne
+1000274,Direct contact with infected people.
+1000274,Touching contaminated objects/surfaces
+1000274,Sexual intercourse contact
+1000144,Droplets from infected people
+1000144,Direct contact with infected people.
+1000144,Touching contaminated objects/surfaces
+1000220,Airborne
+1000220,Direct contact with infected people.
+1000220,Touching contaminated objects/surfaces
+1000220,Contact with contaminated animals
+1000192,Droplets from infected people
+1000192,Direct contact with infected people.
+1000192,Touching contaminated objects/surfaces
+1000192,Sexual intercourse contact
+1000253,Airborne
+1000253,Direct contact with infected people.
+1000253,Touching contaminated objects/surfaces
+1000253,Contact with contaminated animals
+1000215,Droplets from infected people
+1000215,Direct contact with infected people.
+1000215,Touching contaminated objects/surfaces
+1000157,Droplets from infected people
+1000157,Airborne
+1000157,Direct contact with infected people.
+1000157,Touching contaminated objects/surfaces
+1000113,Droplets from infected people
+1000113,Airborne
+1000113,Direct contact with infected people.
+1000113,Touching contaminated objects/surfaces
+1000113,Sexual intercourse contact
+1000113,Contact with contaminated animals
+1000140,Droplets from infected people
+1000140,Airborne
+1000140,Direct contact with infected people.
+1000140,Touching contaminated objects/surfaces
+1000140,Contact with contaminated animals
+1000211,Droplets from infected people
+1000211,Airborne
+1000211,Direct contact with infected people.
+1000211,Touching contaminated objects/surfaces
+1000211,Sexual intercourse contact
+1000211,Contact with contaminated animals
+1000197,Droplets from infected people
+1000197,Airborne
+1000197,Direct contact with infected people.
+1000197,Touching contaminated objects/surfaces
+1000313,Droplets from infected people
+1000313,Airborne
+1000313,Direct contact with infected people.
+1000313,Touching contaminated objects/surfaces
+1000266,Blood transfusion
+1000266,Droplets from infected people
+1000266,Airborne
+1000266,Direct contact with infected people.
+1000266,Touching contaminated objects/surfaces
+1000266,Sexual intercourse contact
+1000108,Droplets from infected people
+1000108,Airborne
+1000108,Direct contact with infected people.
+1000108,Touching contaminated objects/surfaces
+1000108,Contact with contaminated animals
+1000164,Droplets from infected people
+1000164,Direct contact with infected people.
+1000164,Touching contaminated objects/surfaces
+1000110,Droplets from infected people
+1000110,Direct contact with infected people.
+1000110,Touching contaminated objects/surfaces
+1000103,Droplets from infected people
+1000103,Direct contact with infected people.
+1000103,Touching contaminated objects/surfaces
+1000256,Droplets from infected people
+1000256,Airborne
+1000256,Direct contact with infected people.
+1000256,Touching contaminated objects/surfaces
+1000264,Droplets from infected people
+1000264,Direct contact with infected people.
+1000264,Contact with contaminated animals
+1000193,Droplets from infected people
+1000193,Direct contact with infected people.
+1000244,Blood transfusion
+1000244,Droplets from infected people
+1000244,Direct contact with infected people.
+1000244,Touching contaminated objects/surfaces
+1000244,Contact with contaminated animals
+1000244,Eating contaminated food
+1000244,Drinking unclean water
+1000283,Airborne
+1000283,Direct contact with infected people.
+1000283,Touching contaminated objects/surfaces
+1000283,Contact with contaminated animals
+1000159,Droplets from infected people
+1000159,Airborne
+1000159,Direct contact with infected people.
+1000159,Touching contaminated objects/surfaces
+1000262,Droplets from infected people
+1000262,Airborne
+1000262,Direct contact with infected people.
+1000262,Touching contaminated objects/surfaces
+1000262,Contact with contaminated animals
+1000126,Droplets from infected people
+1000126,Airborne
+1000254,Droplets from infected people
+1000254,Airborne
+1000254,Direct contact with infected people.
+1000254,Touching contaminated objects/surfaces
+1000254,Sexual intercourse contact
+1000254,Mosquito bites
+1000254,Eating contaminated food
+1000254,Drinking unclean water
+1000152,Airborne
+1000152,Direct contact with infected people.
+1000238,Blood transfusion
+1000238,Droplets from infected people
+1000238,Airborne
+1000238,Direct contact with infected people.
+1000277,Direct contact with infected people.
+1000106,Droplets from infected people
+1000106,Direct contact with infected people.
+1000106,Touching contaminated objects/surfaces
+1000106,Contact with contaminated animals
+1000106,Eating contaminated food
+1000130,Droplets from infected people
+1000130,Airborne
+1000130,Direct contact with infected people.
+1000130,Touching contaminated objects/surfaces
+1000130,Sexual intercourse contact
+1000224,Blood transfusion
+1000224,Droplets from infected people
+1000224,Direct contact with infected people.
+1000143,Droplets from infected people
+1000143,Direct contact with infected people.
+1000143,Touching contaminated objects/surfaces
+1000161,Droplets from infected people
+1000161,Direct contact with infected people.
+1000161,Touching contaminated objects/surfaces
+1000137,Droplets from infected people
+1000137,Direct contact with infected people.
+1000137,Touching contaminated objects/surfaces
+1000137,Sexual intercourse contact
+1000201,Blood transfusion
+1000201,Droplets from infected people
+1000201,Airborne
+1000201,Direct contact with infected people.
+1000201,Touching contaminated objects/surfaces
+1000201,Sexual intercourse contact
+1000201,Contact with contaminated animals
+1000300,Droplets from infected people
+1000300,Airborne
+1000300,Direct contact with infected people.
+1000317,Droplets from infected people
+1000317,Direct contact with infected people.
+1000317,Touching contaminated objects/surfaces
+1000314,Droplets from infected people
+1000314,Airborne
+1000314,Direct contact with infected people.
+1000314,Touching contaminated objects/surfaces
+1000314,Contact with contaminated animals
+1000235,Droplets from infected people
+1000235,Direct contact with infected people.
+1000235,Touching contaminated objects/surfaces
+1000235,Contact with contaminated animals
+1000320,Direct contact with infected people.
+1000320,Sexual intercourse contact
+1000304,Droplets from infected people
+1000304,Direct contact with infected people.
+1000304,Touching contaminated objects/surfaces
+1000195,Blood transfusion
+1000195,Droplets from infected people
+1000195,Touching contaminated objects/surfaces
+1000195,Sexual intercourse contact
+1000195,Contact with contaminated animals
+1000292,Droplets from infected people
+1000292,Touching contaminated objects/surfaces
+1000292,Contact with contaminated animals
+1000163,Droplets from infected people
+1000163,Airborne
+1000163,Direct contact with infected people.
+1000163,Touching contaminated objects/surfaces
+1000307,Droplets from infected people
+1000307,Airborne
+1000307,Direct contact with infected people.
+1000307,Touching contaminated objects/surfaces
+1000307,Contact with contaminated animals
+1000153,Blood transfusion
+1000153,Droplets from infected people
+1000153,Airborne
+1000132,Droplets from infected people
+1000132,Airborne
+1000132,Direct contact with infected people.
+1000132,Touching contaminated objects/surfaces
+1000132,Contact with contaminated animals
+1000132,Eating contaminated food
+1000168,Airborne
+1000168,Direct contact with infected people.
+1000306,Airborne
+1000180,Droplets from infected people
+1000180,Airborne
+1000180,Direct contact with infected people.
+1000180,Touching contaminated objects/surfaces
+1000180,Contact with contaminated animals
+1000151,Droplets from infected people
+1000151,Airborne
+1000151,Direct contact with infected people.
+1000151,Touching contaminated objects/surfaces
+1000165,Droplets from infected people
+1000165,Direct contact with infected people.
+1000165,Touching contaminated objects/surfaces
+1000165,Contact with contaminated animals
+1000165,Eating contaminated food
+1000154,Droplets from infected people
+1000154,Airborne
+1000154,Direct contact with infected people.
+1000154,Touching contaminated objects/surfaces
+1000231,Blood transfusion
+1000231,Droplets from infected people
+1000231,Direct contact with infected people.
+1000231,Touching contaminated objects/surfaces
+1000231,Sexual intercourse contact
+1000231,Contact with contaminated animals
+1000269,Droplets from infected people
+1000269,Airborne
+1000269,Direct contact with infected people.
+1000269,Touching contaminated objects/surfaces
+1000175,Droplets from infected people
+1000175,Airborne
+1000175,Direct contact with infected people.
+1000175,Touching contaminated objects/surfaces
+1000188,Droplets from infected people
+1000188,Airborne
+1000188,Direct contact with infected people.
+1000188,Touching contaminated objects/surfaces
+1000123,Touching contaminated objects/surfaces
+1000109,Droplets from infected people
+1000109,Airborne
+1000109,Direct contact with infected people.
+1000109,Touching contaminated objects/surfaces
+1000109,Contact with contaminated animals
+1000270,Droplets from infected people
+1000270,Airborne
+1000270,Direct contact with infected people.
+1000229,Droplets from infected people
+1000229,Airborne
+1000229,Direct contact with infected people.
+1000229,Touching contaminated objects/surfaces
+1000150,Droplets from infected people
+1000150,Direct contact with infected people.
+1000150,Touching contaminated objects/surfaces
+1000150,Sexual intercourse contact
+1000319,Blood transfusion
+1000319,Droplets from infected people
+1000319,Airborne
+1000319,Direct contact with infected people.
+1000319,Touching contaminated objects/surfaces
+1000319,Contact with contaminated animals
+1000319,Eating contaminated food
+1000319,Drinking unclean water
+1000124,Droplets from infected people
+1000124,Direct contact with infected people.
+1000124,Touching contaminated objects/surfaces
+1000124,Contact with contaminated animals
+1000160,Blood transfusion
+1000160,Droplets from infected people
+1000160,Airborne
+1000160,Touching contaminated objects/surfaces
+1000160,Sexual intercourse contact
+1000160,Drinking unclean water
+1000184,Droplets from infected people
+1000184,Airborne
+1000184,Direct contact with infected people.
+1000184,Touching contaminated objects/surfaces
+1000184,Contact with contaminated animals
+1000172,Airborne
+1000172,Direct contact with infected people.
+1000172,Touching contaminated objects/surfaces
+1000240,Airborne
+1000240,Direct contact with infected people.
+1000240,Touching contaminated objects/surfaces
+1000240,Sexual intercourse contact
+1000112,Droplets from infected people
+1000112,Airborne
+1000112,Touching contaminated objects/surfaces
+1000263,Droplets from infected people
+1000263,Airborne
+1000263,Direct contact with infected people.
+1000263,Touching contaminated objects/surfaces
+1000263,Contact with contaminated animals
+1000263,Eating contaminated food
+1000263,Drinking unclean water
+1000322,Direct contact with infected people.
+1000138,Blood transfusion
+1000138,Direct contact with infected people.
+1000138,Touching contaminated objects/surfaces
+1000138,Contact with contaminated animals
+1000310,Droplets from infected people
+1000310,Airborne
+1000310,Direct contact with infected people.
+1000310,Touching contaminated objects/surfaces
+1000310,Contact with contaminated animals
+1000257,Droplets from infected people
+1000257,Airborne
+1000257,Direct contact with infected people.
+1000257,Touching contaminated objects/surfaces
+1000287,Droplets from infected people
+1000287,Airborne
+1000287,Direct contact with infected people.
+1000287,Touching contaminated objects/surfaces
+1000213,Droplets from infected people
+1000213,Direct contact with infected people.
+1000213,Touching contaminated objects/surfaces
+1000218,Droplets from infected people
+1000218,Direct contact with infected people.
+1000305,Droplets from infected people
+1000305,Direct contact with infected people.
+1000305,Contact with contaminated animals
+1000118,Droplets from infected people
+1000118,Direct contact with infected people.
+1000118,Touching contaminated objects/surfaces
+1000200,Airborne
+1000200,Direct contact with infected people.
+1000200,Touching contaminated objects/surfaces
+1000248,Blood transfusion
+1000248,Airborne
+1000248,Direct contact with infected people.
+1000248,Touching contaminated objects/surfaces
+1000248,Sexual intercourse contact
+1000280,Droplets from infected people
+1000280,Direct contact with infected people.
+1000280,Touching contaminated objects/surfaces
+1000234,Droplets from infected people
+1000234,Airborne
+1000234,Direct contact with infected people.
+1000234,Touching contaminated objects/surfaces
+1000234,Contact with contaminated animals
+1000282,Droplets from infected people
+1000282,Airborne
+1000282,Direct contact with infected people.
+1000282,Touching contaminated objects/surfaces
+1000282,Contact with contaminated animals
+1000228,Direct contact with infected people.
+1000242,Droplets from infected people
+1000242,Airborne
+1000242,Direct contact with infected people.
+1000242,Touching contaminated objects/surfaces
+1000312,Droplets from infected people
+1000312,Direct contact with infected people.
+1000312,Touching contaminated objects/surfaces
+1000281,Droplets from infected people
+1000281,Airborne
+1000281,Direct contact with infected people.
+1000281,Touching contaminated objects/surfaces
+1000281,Sexual intercourse contact
+1000281,Contact with contaminated animals
+1000120,Droplets from infected people
+1000120,Airborne
+1000120,Direct contact with infected people.
+1000120,Touching contaminated objects/surfaces
+1000230,Droplets from infected people
+1000230,Airborne
+1000230,Direct contact with infected people.
+1000230,Touching contaminated objects/surfaces
+1000209,Blood transfusion
+1000209,Droplets from infected people
+1000209,Direct contact with infected people.
+1000209,Touching contaminated objects/surfaces
+1000209,Sexual intercourse contact
+1000276,Droplets from infected people
+1000276,Direct contact with infected people.
+1000276,Sexual intercourse contact
+1000232,Droplets from infected people
+1000232,Airborne
+1000232,Direct contact with infected people.
+1000232,Touching contaminated objects/surfaces
+1000232,Sexual intercourse contact
+1000245,Airborne
+1000245,Direct contact with infected people.
+1000125,Droplets from infected people
+1000125,Airborne
+1000125,Direct contact with infected people.
+1000125,Touching contaminated objects/surfaces
+1000286,Droplets from infected people
+1000286,Direct contact with infected people.
+1000286,Touching contaminated objects/surfaces
+1000286,Contact with contaminated animals
+1000286,Drinking unclean water
+1000255,Airborne
+1000255,Direct contact with infected people.
+1000255,Touching contaminated objects/surfaces
+1000255,Contact with contaminated animals
+1000255,Eating contaminated food
+1000255,Drinking unclean water
+1000272,Blood transfusion
+1000272,Droplets from infected people
+1000272,Airborne
+1000272,Direct contact with infected people.
+1000272,Touching contaminated objects/surfaces
+1000272,Sexual intercourse contact
+1000272,Contact with contaminated animals
+1000272,Mosquito bites
+1000249,Droplets from infected people
+1000249,Airborne
+1000249,Direct contact with infected people.
+1000249,Touching contaminated objects/surfaces
+1000258,Blood transfusion
+1000258,Droplets from infected people
+1000258,Airborne
+1000258,Direct contact with infected people.
+1000258,Touching contaminated objects/surfaces
+1000258,Sexual intercourse contact
+1000294,Droplets from infected people
+1000294,Direct contact with infected people.
+1000294,Touching contaminated objects/surfaces
+1000216,Droplets from infected people
+1000216,Airborne
+1000216,Direct contact with infected people.
+1000216,Touching contaminated objects/surfaces
+1000216,Contact with contaminated animals
+1000156,Direct contact with infected people.
+1000102,Droplets from infected people
+1000102,Direct contact with infected people.
+1000102,Touching contaminated objects/surfaces
+1000166,Droplets from infected people
+1000166,Airborne
+1000166,Direct contact with infected people.
+1000166,Touching contaminated objects/surfaces
+1000166,Contact with contaminated animals
+1000207,Droplets from infected people
+1000207,Airborne
+1000207,Direct contact with infected people.
+1000207,Touching contaminated objects/surfaces
+1000207,Contact with contaminated animals
+1000309,Droplets from infected people
+1000309,Airborne
+1000309,Direct contact with infected people.
+1000202,Airborne
+1000202,Direct contact with infected people.
+1000202,Touching contaminated objects/surfaces
+1000202,Sexual intercourse contact
+1000100,Droplets from infected people
+1000100,Direct contact with infected people.
+1000100,Touching contaminated objects/surfaces
+1000299,Droplets from infected people
+1000299,Direct contact with infected people.
+1000241,Airborne
+1000303,Blood transfusion
+1000303,Droplets from infected people
+1000303,Airborne
+1000303,Direct contact with infected people.
+1000303,Touching contaminated objects/surfaces
+1000303,Sexual intercourse contact
+1000303,Eating contaminated food
+1000303,Drinking unclean water
+1000288,Airborne
+1000291,Droplets from infected people
+1000291,Direct contact with infected people.
+1000291,Touching contaminated objects/surfaces
+1000183,Droplets from infected people
+1000183,Airborne
+1000183,Direct contact with infected people.
+1000183,Touching contaminated objects/surfaces
+1000183,Contact with contaminated animals
+1000316,Blood transfusion
+1000316,Droplets from infected people
+1000316,Direct contact with infected people.
+1000316,Touching contaminated objects/surfaces
+1000223,Direct contact with infected people.
+1000173,Droplets from infected people
+1000173,Airborne
+1000173,Direct contact with infected people.
+1000293,Airborne
+1000293,Direct contact with infected people.
+1000293,Touching contaminated objects/surfaces
+1000284,Droplets from infected people
+1000284,Airborne
+1000284,Direct contact with infected people.
+1000284,Sexual intercourse contact
+1000186,Airborne
+1000186,Touching contaminated objects/surfaces
+1000186,Sexual intercourse contact
+1000186,Contact with contaminated animals
+1000129,Droplets from infected people
+1000129,Direct contact with infected people.
+1000129,Touching contaminated objects/surfaces
+1000129,Contact with contaminated animals
+1000129,Eating contaminated food
+1000191,Droplets from infected people
+1000191,Airborne
+1000191,Direct contact with infected people.
+1000191,Touching contaminated objects/surfaces
+1000251,Airborne
+1000251,Direct contact with infected people.
+1000179,Droplets from infected people
+1000179,Airborne
+1000179,Direct contact with infected people.
+1000179,Touching contaminated objects/surfaces
+1000179,Sexual intercourse contact
+1000179,Contact with contaminated animals
+1000178,Droplets from infected people
+1000178,Airborne
+1000178,Direct contact with infected people.
+1000178,Touching contaminated objects/surfaces
+1000107,Airborne
+1000107,Direct contact with infected people.
+1000321,Blood transfusion
+1000321,Droplets from infected people
+1000321,Airborne
+1000321,Direct contact with infected people.
+1000321,Touching contaminated objects/surfaces
+1000321,Sexual intercourse contact
+1000321,Contact with contaminated animals
+1000115,Droplets from infected people
+1000115,Touching contaminated objects/surfaces
+1000259,Blood transfusion
+1000259,Droplets from infected people
+1000259,Airborne
+1000259,Direct contact with infected people.
+1000259,Touching contaminated objects/surfaces
+1000259,Sexual intercourse contact
+1000105,Droplets from infected people
+1000105,Airborne
+1000105,Direct contact with infected people.
+1000105,Touching contaminated objects/surfaces
+1000279,Blood transfusion
+1000279,Droplets from infected people
+1000279,Direct contact with infected people.
+1000279,Touching contaminated objects/surfaces
+1000279,Sexual intercourse contact
+1000279,Contact with contaminated animals
+1000279,Eating contaminated food
+1000279,Drinking unclean water
+1000149,Droplets from infected people
+1000149,Airborne
+1000149,Direct contact with infected people.
+1000149,Touching contaminated objects/surfaces
+1000149,Contact with contaminated animals
+1000208,Droplets from infected people
+1000208,Airborne
+1000208,Direct contact with infected people.
+1000208,Touching contaminated objects/surfaces
+1000142,Droplets from infected people
+1000142,Airborne
+1000142,Direct contact with infected people.
+1000222,Blood transfusion
+1000222,Droplets from infected people
+1000222,Airborne
+1000222,Direct contact with infected people.
+1000222,Touching contaminated objects/surfaces
+1000222,Sexual intercourse contact
+1000222,Eating contaminated food
+1000222,Drinking unclean water
+1000308,Droplets from infected people
+1000308,Airborne
+1000308,Direct contact with infected people.
+1000146,Airborne
+1000146,Direct contact with infected people.
+1000146,Touching contaminated objects/surfaces
+1000146,Sexual intercourse contact
+1000298,Droplets from infected people
+1000298,Direct contact with infected people.
+1000298,Touching contaminated objects/surfaces
+1000298,Contact with contaminated animals
+1000236,Droplets from infected people
+1000236,Direct contact with infected people.
+1000236,Touching contaminated objects/surfaces
+1000236,Contact with contaminated animals
+1000297,Blood transfusion
+1000297,Droplets from infected people
+1000297,Airborne
+1000297,Contact with contaminated animals
+1000297,Eating contaminated food
+1000297,Drinking unclean water
+1000296,Airborne
+1000296,Direct contact with infected people.
+1000296,Contact with contaminated animals
+1000250,Direct contact with infected people.
+1000250,Touching contaminated objects/surfaces
+1000145,Droplets from infected people
+1000145,Airborne
+1000145,Direct contact with infected people.
+1000145,Touching contaminated objects/surfaces
+1000145,Contact with contaminated animals
+1000273,Droplets from infected people
+1000273,Airborne
+1000273,Direct contact with infected people.
+1000273,Touching contaminated objects/surfaces
+1000127,Droplets from infected people
+1000247,Direct contact with infected people.
+1000247,Touching contaminated objects/surfaces
+1000227,Droplets from infected people
+1000227,Direct contact with infected people.
+1000227,Touching contaminated objects/surfaces
+1000265,Droplets from infected people
+1000265,Airborne
+1000265,Direct contact with infected people.
+1000265,Touching contaminated objects/surfaces
+1000265,Contact with contaminated animals
+1000311,Airborne
+1000311,Touching contaminated objects/surfaces

@@ -1,0 +1,907 @@
+id,Symptoms
+1000205,Cough
+1000176,Fever
+1000176,Cough
+1000176,Shortness of breath and breathing difficulties
+1000176,Headache
+1000301,Cough
+1000301,Shortness of breath and breathing difficulties
+1000301,Muscle pain
+1000301,Headache
+1000315,Fever
+1000315,Cough
+1000315,Shortness of breath and breathing difficulties
+1000315,Muscle pain
+1000315,Headache
+1000187,Fever
+1000187,Cough
+1000187,Shortness of breath and breathing difficulties
+1000187,Headache
+1000187,Diarrhea
+1000171,Fever
+1000171,Cough
+1000171,Shortness of breath and breathing difficulties
+1000171,Muscle pain
+1000171,Headache
+1000212,Fever
+1000212,Cough
+1000212,Shortness of breath and breathing difficulties
+1000212,Headache
+1000217,Fever
+1000217,Cough
+1000217,Shortness of breath and breathing difficulties
+1000217,Headache
+1000237,Fever
+1000237,Cough
+1000237,Shortness of breath and breathing difficulties
+1000237,Headache
+1000121,Fever
+1000121,Cough
+1000121,Shortness of breath and breathing difficulties
+1000121,Headache
+1000285,Fever
+1000285,Cough
+1000285,Shortness of breath and breathing difficulties
+1000285,Headache
+1000233,Fever
+1000233,Cough
+1000233,Shortness of breath and breathing difficulties
+1000233,Muscle pain
+1000233,Headache
+1000261,Fever
+1000261,Cough
+1000261,Shortness of breath and breathing difficulties
+1000261,Headache
+1000104,Fever
+1000104,Cough
+1000104,Shortness of breath and breathing difficulties
+1000104,Muscle pain
+1000104,Headache
+1000104,Diarrhea
+1000147,Fever
+1000147,Cough
+1000147,Shortness of breath and breathing difficulties
+1000147,Muscle pain
+1000147,Headache
+1000147,"Runnin of nose, cold and lost of appetite for food"
+1000174,Fever
+1000174,Cough
+1000174,Shortness of breath and breathing difficulties
+1000174,Headache
+1000225,Fever
+1000225,Cough
+1000225,Shortness of breath and breathing difficulties
+1000225,Headache
+1000275,Fever
+1000275,Cough
+1000275,Shortness of breath and breathing difficulties
+1000119,Fever
+1000119,Cough
+1000119,Shortness of breath and breathing difficulties
+1000119,Headache
+1000128,Fever
+1000128,Cough
+1000128,Shortness of breath and breathing difficulties
+1000141,Fever
+1000141,Cough
+1000141,Shortness of breath and breathing difficulties
+1000141,Headache
+1000185,Fever
+1000185,Cough
+1000185,Shortness of breath and breathing difficulties
+1000185,Headache
+1000122,Fever
+1000122,Cough
+1000122,Shortness of breath and breathing difficulties
+1000122,Muscle pain
+1000122,Headache
+1000122,Diarrhea
+1000167,Fever
+1000167,Cough
+1000167,Shortness of breath and breathing difficulties
+1000117,Fever
+1000117,Cough
+1000117,Shortness of breath and breathing difficulties
+1000117,Muscle pain
+1000117,Diarrhea
+1000111,Fever
+1000111,Cough
+1000111,Shortness of breath and breathing difficulties
+1000111,Muscle pain
+1000111,Headache
+1000111,Diarrhea
+1000290,Fever
+1000290,Cough
+1000290,Shortness of breath and breathing difficulties
+1000290,Headache
+1000131,Fever
+1000131,Cough
+1000131,Shortness of breath and breathing difficulties
+1000131,Muscle pain
+1000131,Headache
+1000226,Fever
+1000226,Cough
+1000226,Shortness of breath and breathing difficulties
+1000226,Headache
+1000226,Loss of taste and smell senses
+1000289,Cough
+1000289,Shortness of breath and breathing difficulties
+1000204,Fever
+1000204,Cough
+1000204,Shortness of breath and breathing difficulties
+1000204,Muscle pain
+1000204,Headache
+1000190,Fever
+1000190,Cough
+1000190,Shortness of breath and breathing difficulties
+1000190,Headache
+1000214,Fever
+1000214,Cough
+1000214,Shortness of breath and breathing difficulties
+1000199,Fever
+1000199,Cough
+1000199,Shortness of breath and breathing difficulties
+1000199,Muscle pain
+1000199,Headache
+1000155,Fever
+1000155,Cough
+1000155,Shortness of breath and breathing difficulties
+1000155,Muscle pain
+1000155,Headache
+1000135,Fever
+1000135,Shortness of breath and breathing difficulties
+1000135,Headache
+1000177,Fever
+1000177,Cough
+1000177,Shortness of breath and breathing difficulties
+1000177,Headache
+1000116,Fever
+1000116,Cough
+1000116,Shortness of breath and breathing difficulties
+1000206,Fever
+1000206,Cough
+1000206,Shortness of breath and breathing difficulties
+1000206,Headache
+1000318,Fever
+1000318,Cough
+1000318,Shortness of breath and breathing difficulties
+1000318,Muscle pain
+1000318,Headache
+1000318,Diarrhea
+1000271,Fever
+1000271,Cough
+1000271,Shortness of breath and breathing difficulties
+1000295,Fever
+1000295,Cough
+1000295,Shortness of breath and breathing difficulties
+1000295,Headache
+1000158,Fever
+1000158,Cough
+1000158,Shortness of breath and breathing difficulties
+1000158,Muscle pain
+1000158,Headache
+1000246,Fever
+1000246,Cough
+1000246,Shortness of breath and breathing difficulties
+1000246,Headache
+1000196,Fever
+1000196,Cough
+1000196,Shortness of breath and breathing difficulties
+1000196,Muscle pain
+1000196,Headache
+1000189,Fever
+1000189,Cough
+1000189,Shortness of breath and breathing difficulties
+1000189,Headache
+1000268,Fever
+1000268,Cough
+1000268,Shortness of breath and breathing difficulties
+1000203,Fever
+1000203,Cough
+1000203,Headache
+1000114,Cough
+1000114,Shortness of breath and breathing difficulties
+1000219,Fever
+1000219,Cough
+1000219,Shortness of breath and breathing difficulties
+1000219,Muscle pain
+1000219,Headache
+1000219,Diarrhea
+1000302,Fever
+1000302,Cough
+1000302,Shortness of breath and breathing difficulties
+1000302,Headache
+1000302,Diarrhea
+1000260,Fever
+1000260,Cough
+1000260,Shortness of breath and breathing difficulties
+1000260,Headache
+1000239,Fever
+1000239,Cough
+1000239,Shortness of breath and breathing difficulties
+1000239,Headache
+1000194,Fever
+1000194,Cough
+1000194,Shortness of breath and breathing difficulties
+1000194,Muscle pain
+1000194,Headache
+1000198,Fever
+1000198,Cough
+1000198,Shortness of breath and breathing difficulties
+1000198,Headache
+1000162,Fever
+1000162,Cough
+1000162,Shortness of breath and breathing difficulties
+1000162,Muscle pain
+1000162,Headache
+1000136,Fever
+1000136,Cough
+1000136,Shortness of breath and breathing difficulties
+1000181,Fever
+1000181,Cough
+1000181,Shortness of breath and breathing difficulties
+1000181,Muscle pain
+1000181,Headache
+1000210,Fever
+1000210,Cough
+1000210,Shortness of breath and breathing difficulties
+1000139,Fever
+1000139,Cough
+1000139,Shortness of breath and breathing difficulties
+1000133,Fever
+1000133,Cough
+1000133,Shortness of breath and breathing difficulties
+1000133,Muscle pain
+1000133,Headache
+1000243,Fever
+1000243,Cough
+1000243,Shortness of breath and breathing difficulties
+1000243,Headache
+1000169,Cough
+1000169,Shortness of breath and breathing difficulties
+1000169,Headache
+1000182,Fever
+1000182,Cough
+1000182,Shortness of breath and breathing difficulties
+1000170,Fever
+1000170,Cough
+1000170,Shortness of breath and breathing difficulties
+1000170,Headache
+1000101,Fever
+1000101,Cough
+1000101,Shortness of breath and breathing difficulties
+1000101,Headache
+1000267,Fever
+1000267,Cough
+1000267,Shortness of breath and breathing difficulties
+1000267,Headache
+1000134,Fever
+1000134,Cough
+1000134,Shortness of breath and breathing difficulties
+1000134,Headache
+1000221,Fever
+1000221,Cough
+1000221,Shortness of breath and breathing difficulties
+1000221,Muscle pain
+1000221,Headache
+1000148,Fever
+1000148,Cough
+1000148,Shortness of breath and breathing difficulties
+1000148,Headache
+1000252,Fever
+1000252,Cough
+1000252,Headache
+1000274,Shortness of breath and breathing difficulties
+1000274,Muscle pain
+1000144,Fever
+1000144,Cough
+1000144,Shortness of breath and breathing difficulties
+1000220,Fever
+1000220,Cough
+1000220,Shortness of breath and breathing difficulties
+1000220,Headache
+1000192,Shortness of breath and breathing difficulties
+1000192,Headache
+1000253,Cough
+1000253,Shortness of breath and breathing difficulties
+1000253,Headache
+1000215,Fever
+1000215,Cough
+1000215,Shortness of breath and breathing difficulties
+1000215,Headache
+1000157,Fever
+1000157,Cough
+1000157,Shortness of breath and breathing difficulties
+1000157,Muscle pain
+1000113,Fever
+1000113,Cough
+1000113,Shortness of breath and breathing difficulties
+1000113,Muscle pain
+1000113,Headache
+1000113,Diarrhea
+1000140,Fever
+1000140,Cough
+1000140,Shortness of breath and breathing difficulties
+1000140,Headache
+1000140,Diarrhea
+1000211,Fever
+1000211,Cough
+1000211,Shortness of breath and breathing difficulties
+1000211,Headache
+1000197,Fever
+1000197,Cough
+1000197,Shortness of breath and breathing difficulties
+1000313,Fever
+1000313,Cough
+1000313,Shortness of breath and breathing difficulties
+1000313,Headache
+1000266,Fever
+1000266,Cough
+1000266,Headache
+1000108,Fever
+1000108,Cough
+1000108,Shortness of breath and breathing difficulties
+1000108,Headache
+1000164,Fever
+1000164,Cough
+1000164,Shortness of breath and breathing difficulties
+1000164,Headache
+1000110,Fever
+1000110,Cough
+1000110,Shortness of breath and breathing difficulties
+1000110,Muscle pain
+1000110,Headache
+1000103,Cough
+1000103,Shortness of breath and breathing difficulties
+1000103,Headache
+1000256,Fever
+1000256,Cough
+1000256,Shortness of breath and breathing difficulties
+1000256,Headache
+1000256,Diarrhea
+1000264,Fever
+1000264,Cough
+1000264,Shortness of breath and breathing difficulties
+1000264,Muscle pain
+1000264,Headache
+1000193,Fever
+1000193,Cough
+1000193,Shortness of breath and breathing difficulties
+1000193,Muscle pain
+1000193,Headache
+1000244,Fever
+1000244,Cough
+1000283,Fever
+1000283,Cough
+1000283,Shortness of breath and breathing difficulties
+1000283,Muscle pain
+1000283,Headache
+1000283,No symptoms
+1000159,Fever
+1000159,Cough
+1000159,Shortness of breath and breathing difficulties
+1000159,Headache
+1000159,Diarrhea
+1000262,Fever
+1000262,Cough
+1000262,Shortness of breath and breathing difficulties
+1000262,Headache
+1000126,Fever
+1000126,Cough
+1000126,Shortness of breath and breathing difficulties
+1000126,Headache
+1000254,Fever
+1000254,Cough
+1000254,Shortness of breath and breathing difficulties
+1000254,Headache
+1000152,Fever
+1000152,Cough
+1000152,Headache
+1000238,Fever
+1000238,Cough
+1000238,Shortness of breath and breathing difficulties
+1000238,Headache
+1000277,Fever
+1000277,Cough
+1000277,Shortness of breath and breathing difficulties
+1000277,Headache
+1000106,Fever
+1000106,Cough
+1000106,Shortness of breath and breathing difficulties
+1000106,Muscle pain
+1000106,Headache
+1000106,Diarrhea
+1000130,Fever
+1000130,Cough
+1000130,Shortness of breath and breathing difficulties
+1000130,Muscle pain
+1000130,Headache
+1000130,Diarrhea
+1000224,Cough
+1000224,Shortness of breath and breathing difficulties
+1000143,Fever
+1000143,Cough
+1000143,Shortness of breath and breathing difficulties
+1000143,Muscle pain
+1000143,Headache
+1000161,Fever
+1000161,Cough
+1000161,Shortness of breath and breathing difficulties
+1000137,Fever
+1000137,Cough
+1000137,Shortness of breath and breathing difficulties
+1000137,Headache
+1000201,Cough
+1000201,Shortness of breath and breathing difficulties
+1000201,Headache
+1000300,Fever
+1000300,Cough
+1000300,Shortness of breath and breathing difficulties
+1000300,Headache
+1000317,Fever
+1000317,Cough
+1000317,Shortness of breath and breathing difficulties
+1000317,Headache
+1000314,Fever
+1000314,Cough
+1000314,Shortness of breath and breathing difficulties
+1000314,Headache
+1000235,Fever
+1000235,Cough
+1000235,Shortness of breath and breathing difficulties
+1000320,Fever
+1000320,Cough
+1000320,Shortness of breath and breathing difficulties
+1000304,Fever
+1000304,Cough
+1000304,Shortness of breath and breathing difficulties
+1000195,Fever
+1000195,Cough
+1000195,Shortness of breath and breathing difficulties
+1000292,Fever
+1000292,Cough
+1000292,Shortness of breath and breathing difficulties
+1000163,Fever
+1000163,Cough
+1000163,Shortness of breath and breathing difficulties
+1000163,Headache
+1000307,Fever
+1000307,Cough
+1000307,Shortness of breath and breathing difficulties
+1000153,Fever
+1000153,Cough
+1000153,Shortness of breath and breathing difficulties
+1000153,Headache
+1000132,Fever
+1000132,Cough
+1000132,Shortness of breath and breathing difficulties
+1000132,Muscle pain
+1000132,Headache
+1000168,Cough
+1000168,Shortness of breath and breathing difficulties
+1000168,Headache
+1000306,Fever
+1000306,Cough
+1000306,Shortness of breath and breathing difficulties
+1000306,Muscle pain
+1000306,Headache
+1000180,Fever
+1000180,Cough
+1000180,Shortness of breath and breathing difficulties
+1000180,Headache
+1000151,Fever
+1000151,Cough
+1000151,Shortness of breath and breathing difficulties
+1000151,Muscle pain
+1000151,Headache
+1000165,Fever
+1000165,Cough
+1000165,Shortness of breath and breathing difficulties
+1000165,Muscle pain
+1000165,Headache
+1000154,Fever
+1000154,Cough
+1000154,Shortness of breath and breathing difficulties
+1000154,Headache
+1000231,Fever
+1000231,Cough
+1000231,Muscle pain
+1000231,Headache
+1000269,Fever
+1000269,Cough
+1000269,Shortness of breath and breathing difficulties
+1000175,Fever
+1000175,Cough
+1000175,Shortness of breath and breathing difficulties
+1000175,Headache
+1000188,Fever
+1000188,Cough
+1000188,Shortness of breath and breathing difficulties
+1000188,Headache
+1000123,Fever
+1000123,Cough
+1000109,Fever
+1000109,Cough
+1000109,Shortness of breath and breathing difficulties
+1000109,Headache
+1000270,Fever
+1000270,Cough
+1000270,Shortness of breath and breathing difficulties
+1000229,Fever
+1000229,Cough
+1000229,Shortness of breath and breathing difficulties
+1000150,Fever
+1000150,Cough
+1000150,Shortness of breath and breathing difficulties
+1000150,Muscle pain
+1000150,Headache
+1000150,Diarrhea
+1000319,Fever
+1000319,Cough
+1000319,Shortness of breath and breathing difficulties
+1000319,Headache
+1000319,Diarrhea
+1000124,Fever
+1000124,Cough
+1000124,Shortness of breath and breathing difficulties
+1000124,Headache
+1000160,Fever
+1000160,Cough
+1000160,Shortness of breath and breathing difficulties
+1000160,Headache
+1000184,Fever
+1000184,Cough
+1000184,Shortness of breath and breathing difficulties
+1000184,Headache
+1000172,Fever
+1000172,Cough
+1000172,Shortness of breath and breathing difficulties
+1000240,Fever
+1000240,Cough
+1000240,Headache
+1000112,Fever
+1000112,Cough
+1000112,Shortness of breath and breathing difficulties
+1000263,Fever
+1000263,Cough
+1000263,Shortness of breath and breathing difficulties
+1000263,Muscle pain
+1000263,Headache
+1000322,Fever
+1000322,Cough
+1000322,Shortness of breath and breathing difficulties
+1000138,Fever
+1000138,Cough
+1000138,Shortness of breath and breathing difficulties
+1000138,Muscle pain
+1000138,Headache
+1000310,Cough
+1000310,Shortness of breath and breathing difficulties
+1000310,Muscle pain
+1000310,Headache
+1000257,Fever
+1000257,Cough
+1000257,Shortness of breath and breathing difficulties
+1000257,Muscle pain
+1000257,Headache
+1000287,Fever
+1000287,Cough
+1000287,Shortness of breath and breathing difficulties
+1000287,Muscle pain
+1000287,Headache
+1000287,Diarrhea
+1000213,Fever
+1000213,Cough
+1000213,Shortness of breath and breathing difficulties
+1000213,Headache
+1000218,Fever
+1000218,Cough
+1000218,Shortness of breath and breathing difficulties
+1000218,Headache
+1000305,Fever
+1000305,Cough
+1000305,Shortness of breath and breathing difficulties
+1000305,Headache
+1000118,Fever
+1000118,Cough
+1000118,Shortness of breath and breathing difficulties
+1000200,Fever
+1000200,Cough
+1000200,Shortness of breath and breathing difficulties
+1000248,Fever
+1000248,Cough
+1000248,Shortness of breath and breathing difficulties
+1000248,Headache
+1000280,Fever
+1000280,Cough
+1000280,Shortness of breath and breathing difficulties
+1000280,Headache
+1000234,Fever
+1000234,Cough
+1000234,Shortness of breath and breathing difficulties
+1000234,Muscle pain
+1000234,Headache
+1000234,Diarrhea
+1000282,Cough
+1000282,Shortness of breath and breathing difficulties
+1000228,Cough
+1000228,Shortness of breath and breathing difficulties
+1000242,Fever
+1000242,Cough
+1000242,Shortness of breath and breathing difficulties
+1000242,Headache
+1000312,Fever
+1000312,Cough
+1000312,Shortness of breath and breathing difficulties
+1000312,Muscle pain
+1000312,Headache
+1000281,Fever
+1000281,Cough
+1000281,Shortness of breath and breathing difficulties
+1000281,Muscle pain
+1000281,Headache
+1000281,Diarrhea
+1000120,Fever
+1000120,Cough
+1000120,Shortness of breath and breathing difficulties
+1000120,Headache
+1000230,Fever
+1000230,Cough
+1000230,Shortness of breath and breathing difficulties
+1000230,Headache
+1000209,Fever
+1000209,Cough
+1000209,Shortness of breath and breathing difficulties
+1000209,Headache
+1000276,Fever
+1000276,Cough
+1000276,Shortness of breath and breathing difficulties
+1000276,Headache
+1000232,Fever
+1000232,Cough
+1000232,Shortness of breath and breathing difficulties
+1000232,Headache
+1000245,Fever
+1000245,Cough
+1000245,Shortness of breath and breathing difficulties
+1000245,Headache
+1000125,Fever
+1000125,Cough
+1000125,Shortness of breath and breathing difficulties
+1000125,Headache
+1000125,Diarrhea
+1000286,Fever
+1000286,Cough
+1000286,Shortness of breath and breathing difficulties
+1000286,Muscle pain
+1000286,Headache
+1000286,Diarrhea
+1000255,Fever
+1000255,Cough
+1000255,Shortness of breath and breathing difficulties
+1000255,Muscle pain
+1000255,Headache
+1000255,Diarrhea
+1000272,Fever
+1000272,Cough
+1000272,Shortness of breath and breathing difficulties
+1000272,Muscle pain
+1000272,Headache
+1000272,Gastrointestinal and neurological symptoms
+1000249,Fever
+1000249,Cough
+1000249,Shortness of breath and breathing difficulties
+1000258,Fever
+1000258,Cough
+1000258,Shortness of breath and breathing difficulties
+1000258,Headache
+1000294,Fever
+1000294,Cough
+1000294,Shortness of breath and breathing difficulties
+1000294,Headache
+1000216,Fever
+1000216,Cough
+1000216,Shortness of breath and breathing difficulties
+1000216,Muscle pain
+1000216,Headache
+1000216,Diarrhea
+1000156,Fever
+1000156,Cough
+1000156,Shortness of breath and breathing difficulties
+1000156,Headache
+1000102,Fever
+1000102,Cough
+1000102,Shortness of breath and breathing difficulties
+1000102,Headache
+1000102,Diarrhea
+1000166,Fever
+1000166,Cough
+1000166,Shortness of breath and breathing difficulties
+1000207,Fever
+1000207,Cough
+1000207,Shortness of breath and breathing difficulties
+1000207,Headache
+1000309,Fever
+1000309,Cough
+1000309,Shortness of breath and breathing difficulties
+1000309,Headache
+1000309,Diarrhea
+1000202,Fever
+1000202,Cough
+1000202,Shortness of breath and breathing difficulties
+1000202,Headache
+1000202,Diarrhea
+1000100,Fever
+1000100,Cough
+1000100,Shortness of breath and breathing difficulties
+1000100,Muscle pain
+1000100,Headache
+1000100,Diarrhea
+1000299,Fever
+1000299,Cough
+1000299,Shortness of breath and breathing difficulties
+1000241,Fever
+1000241,Shortness of breath and breathing difficulties
+1000303,Fever
+1000303,Cough
+1000303,Shortness of breath and breathing difficulties
+1000303,Headache
+1000303,Diarrhea
+1000288,Fever
+1000288,Cough
+1000288,Shortness of breath and breathing difficulties
+1000291,Fever
+1000291,Cough
+1000291,Shortness of breath and breathing difficulties
+1000291,Muscle pain
+1000291,Headache
+1000183,Fever
+1000183,Cough
+1000183,Shortness of breath and breathing difficulties
+1000183,Headache
+1000316,Fever
+1000316,Cough
+1000316,Shortness of breath and breathing difficulties
+1000223,Fever
+1000223,Cough
+1000223,Shortness of breath and breathing difficulties
+1000223,Headache
+1000173,Fever
+1000173,Cough
+1000173,Shortness of breath and breathing difficulties
+1000173,Headache
+1000173,Diarrhea
+1000293,Fever
+1000293,Cough
+1000293,Shortness of breath and breathing difficulties
+1000284,Fever
+1000284,Cough
+1000284,Shortness of breath and breathing difficulties
+1000284,Muscle pain
+1000284,Headache
+1000284,Diarrhea
+1000186,Fever
+1000186,Cough
+1000186,Shortness of breath and breathing difficulties
+1000129,Fever
+1000129,Cough
+1000129,Shortness of breath and breathing difficulties
+1000129,Headache
+1000129,Diarrhea
+1000191,Fever
+1000191,Cough
+1000191,Shortness of breath and breathing difficulties
+1000191,Headache
+1000251,Fever
+1000251,Cough
+1000251,Shortness of breath and breathing difficulties
+1000251,Headache
+1000179,Fever
+1000179,Cough
+1000179,Shortness of breath and breathing difficulties
+1000179,Muscle pain
+1000179,Headache
+1000178,Fever
+1000178,Cough
+1000178,Shortness of breath and breathing difficulties
+1000178,Headache
+1000107,Fever
+1000107,Cough
+1000107,Shortness of breath and breathing difficulties
+1000107,Muscle pain
+1000107,Headache
+1000321,Fever
+1000321,Cough
+1000321,Headache
+1000321,Diarrhea
+1000115,Fever
+1000115,Cough
+1000115,Shortness of breath and breathing difficulties
+1000115,Muscle pain
+1000259,Fever
+1000259,Cough
+1000259,Shortness of breath and breathing difficulties
+1000259,Headache
+1000105,Fever
+1000105,Cough
+1000105,Shortness of breath and breathing difficulties
+1000279,Fever
+1000279,Cough
+1000279,Shortness of breath and breathing difficulties
+1000279,Muscle pain
+1000279,Headache
+1000149,Fever
+1000149,Cough
+1000149,Shortness of breath and breathing difficulties
+1000208,Fever
+1000208,Cough
+1000208,Shortness of breath and breathing difficulties
+1000208,Headache
+1000208,Diarrhea
+1000142,Fever
+1000142,Cough
+1000142,Shortness of breath and breathing difficulties
+1000142,Headache
+1000142,Catarrh
+1000222,Fever
+1000222,Cough
+1000222,Shortness of breath and breathing difficulties
+1000222,Headache
+1000308,Fever
+1000308,Cough
+1000308,Shortness of breath and breathing difficulties
+1000146,Fever
+1000146,Cough
+1000146,Shortness of breath and breathing difficulties
+1000146,Headache
+1000298,Fever
+1000298,Cough
+1000298,Shortness of breath and breathing difficulties
+1000298,Headache
+1000298,Sneezing
+1000236,Fever
+1000236,Cough
+1000236,Shortness of breath and breathing difficulties
+1000236,Headache
+1000236,Diarrhea
+1000297,Fever
+1000297,Cough
+1000297,Shortness of breath and breathing difficulties
+1000297,Headache
+1000296,Fever
+1000296,Cough
+1000296,Shortness of breath and breathing difficulties
+1000296,Headache
+1000296,Diarrhea
+1000250,Fever
+1000250,Cough
+1000145,Fever
+1000145,Cough
+1000145,Shortness of breath and breathing difficulties
+1000273,Fever
+1000273,Cough
+1000273,Shortness of breath and breathing difficulties
+1000273,Headache
+1000127,Fever
+1000127,Cough
+1000127,Shortness of breath and breathing difficulties
+1000127,Muscle pain
+1000127,Headache
+1000127,Diarrhea
+1000247,Fever
+1000247,Cough
+1000247,Shortness of breath and breathing difficulties
+1000247,Headache
+1000247,Diarrhea
+1000227,Fever
+1000227,Cough
+1000227,Shortness of breath and breathing difficulties
+1000227,Headache
+1000265,Fever
+1000265,Cough
+1000265,Shortness of breath and breathing difficulties
+1000265,Muscle pain
+1000265,Headache
+1000311,Cough
+1000311,Headache
+1000311,Diarrhea

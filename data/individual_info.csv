@@ -1,0 +1,223 @@
+id,Region,Gender,Age,School_Education,Occupation,Aware_Coronavirus,Know_About_Coronavirus,Personal_Risk,Stigma_Perception
+1000205,Ahafo,Female,20.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,Yes,No
+1000176,Central,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000301,Western,Female,21.0,Primary/Mid/Secondary,Student,Yes,It’s a virus that can cause a disease,Yes,No
+1000315,Western,Female,24.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000187,Western,Female,23.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000171,Eastern,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000212,Western,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000217,Greater Accra,Female,23.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000237,Western,Female,25.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000121,Greater Accra,Male,31.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000285,Ashanti,Female,20.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000233,Central,Female,23.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000261,Western,Female,23.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000104,Volta,Female,27.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,No,Yes
+1000147,Ashanti,Female,24.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000174,Western,Female,24.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,No,Yes
+1000225,Western,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,No
+1000275,Western,Female,23.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,No
+1000119,Volta,Female,23.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000128,Northern,Male,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000141,Greater Accra,Female,21.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,Yes,No
+1000185,Western,Female,28.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000122,Volta,Female,29.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000167,Greater Accra,Female,19.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000117,Greater Accra,Male,37.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000111,Central,Male,38.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000290,Western,Female,27.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,Don´t know,No
+1000131,Volta,Male,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000226,Western,Female,18.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,No,Yes
+1000289,Western,Female,23.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000204,Greater Accra,Female,22.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,No,Yes
+1000190,Western,Female,20.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,No
+1000214,Western,Female,23.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000199,Central,Female,23.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000155,Western,Female,27.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000135,Greater Accra,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,No
+1000177,Western North,Female,20.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000116,Volta,Male,23.0,Primary/Mid/Secondary,Other,Yes,It’s a virus that can cause a disease,No,Yes
+1000206,Central,Female,27.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000318,Ashanti,Female,22.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000271,Western,Female,23.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000295,Brong Ahafo,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000158,Central,Female,25.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000246,Western,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000196,Western North,Female,20.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000189,Western,Female,20.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000268,Western,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,No
+1000203,Ashanti,Female,19.0,Tertiary/University,Student,No,It’s a virus that can cause a disease,No,Yes
+1000114,Greater Accra,Male,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000219,Western North,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000302,Western,Female,20.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000260,Western,Female,26.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000239,Western,Female,19.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000194,Western,Female,20.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,No
+1000198,Western,Female,29.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000162,Greater Accra,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,No
+1000136,Western,Female,19.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000181,Greater Accra,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,No
+1000210,Ahafo,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000139,Ashanti,Female,22.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000133,Greater Accra,Male,22.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000243,Western,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000169,Central,Female,24.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000182,Western North,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000170,Central,Female,26.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000101,Greater Accra,Male,42.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,No,Yes
+1000267,Ashanti,Female,20.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,No
+1000134,Ashanti,Female,20.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000221,Western,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000148,Central,Female,20.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,No
+1000252,Western,Female,25.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,No
+1000274,Volta,Male,33.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,No,Yes
+1000144,Western,Female,23.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000220,Western,Female,25.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000192,Western,Female,20.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,No
+1000253,Western,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,No
+1000215,Western,Female,19.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000157,Greater Accra,Female,27.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000113,Volta,Male,34.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000140,Western,Female,25.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000211,Greater Accra,Female,30.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000197,Western,Female,25.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000313,Central,Female,21.0,Tertiary/University,Student,No,It’s a virus that can cause a disease,No,Yes
+1000266,Western,Female,25.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000108,Volta,Male,43.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,No,Yes
+1000164,Western,Female,20.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000110,Volta,Male,22.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000103,Volta,Male,42.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000256,Central,Female,22.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,No,Yes
+1000264,Greater Accra,Female,23.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000193,Western North,Female,24.0,Tertiary/University,Teacher,Yes,I don’t know anything,No,Yes
+1000244,Western,Female,23.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,No
+1000283,Western,Female,23.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000159,Western,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000262,Ashanti,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000126,Greater Accra,Male,33.0,Tertiary/University,Student,Yes,I don’t know anything,Don´t know,Yes
+1000254,Western,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000152,Greater Accra,Female,25.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000238,Central,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000277,Western,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000106,Volta,Male,43.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000130,Volta,Female,71.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,No,Yes
+1000224,Ashanti,Female,24.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000143,Central,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000161,Western,Female,20.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000137,Western,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,No
+1000201,Central,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000300,Western,Female,20.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000317,Western,Female,19.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000314,Western,Female,19.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000235,Ashanti,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000320,Central,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,No
+1000304,Western,Female,25.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000195,Western,Female,20.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,No
+1000292,Western,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000163,Western,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000307,Ashanti,Female,20.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,No,Yes
+1000153,Central,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000132,Volta,Male,44.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,No,Yes
+1000168,Western,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,No
+1000306,Western,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000180,Ashanti,Female,19.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000151,Ahafo,Female,22.0,Tertiary/University,Other,Yes,I don’t know anything,No,No
+1000165,Western,Female,19.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000154,Ashanti,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000231,Western,Male,27.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,No,No
+1000269,Western,Female,19.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000175,Western,Female,19.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000188,Ashanti,Female,19.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000123,Volta,Male,34.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,Don´t know,No
+1000109,Volta,Male,43.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,No,Yes
+1000270,Central,Female,20.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,No
+1000229,Central,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000150,Greater Accra,Female,23.0,Tertiary/University,Student,Yes,I don’t know anything,Yes,No
+1000319,Ashanti,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000124,Volta,Male,33.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,No,Yes
+1000160,Western,Female,20.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000184,Western,Female,28.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000172,Western,Female,19.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000240,Greater Accra,Female,21.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,Yes,No
+1000112,Ashanti,Female,41.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,No,No
+1000263,Western,Female,21.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,No,Yes
+1000322,Western,Female,22.0,Tertiary/University,Student,Yes,I don’t know anything,Don´t know,Yes
+1000138,Central,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000310,Western North,Female,21.0,Tertiary/University,Student,No,It’s a virus that can cause a disease,No,Yes
+1000257,Western,Female,24.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000287,Western,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,No
+1000213,Western,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000218,Western,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000305,Western,Female,23.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000118,Volta,Male,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000200,Greater Accra,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000248,Western,Female,24.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,No,Yes
+1000280,Central,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000234,Western,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000282,Western,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,No
+1000228,Western North,Female,25.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000242,Western,Female,20.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000312,Western,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000281,Ahafo,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000120,Volta,Male,34.0,Primary/Mid/Secondary,Other,Yes,It’s a virus that can cause a disease,Yes,No
+1000230,Western,Female,29.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,Yes,No
+1000209,Western,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000276,Western,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000232,Central,Female,24.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000245,Western,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,No
+1000125,Volta,Male,22.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,No,Yes
+1000286,Greater Accra,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000255,Western,Female,18.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000272,Western,Female,24.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000249,Ashanti,Female,23.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000258,Ashanti,Female,18.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000294,Western North,Female,19.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000216,Western,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000156,Greater Accra,Female,24.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000102,Volta,Female,35.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,No,Yes
+1000166,Western,Female,23.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000207,Central,Female,24.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000309,Western North,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,No
+1000202,Western,Female,25.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000100,Volta,Male,22.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,No,Yes
+1000299,Western,Female,21.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,No,No
+1000241,Western,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,No
+1000303,Western,Female,20.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000288,Western,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000291,Western,Female,24.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000183,Western,Female,28.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000316,Western North,Female,23.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000223,Western,Female,22.0,Tertiary/University,Student,Yes,I don’t know anything,No,No
+1000173,Western,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,No
+1000293,Central,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,No
+1000284,Western,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,No
+1000186,Western,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000129,Central,Male,47.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000191,Western,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000251,Western,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,No
+1000179,Western,Female,31.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000178,Western North,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000107,Volta,Male,27.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,Yes,No
+1000321,Western,Female,24.0,Tertiary/University,Student,Yes,I don’t know anything,Yes,Yes
+1000115,Eastern,Female,25.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,No,Yes
+1000259,Ashanti,Female,18.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000105,Volta,Male,33.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,No,No
+1000279,Western,Female,28.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000149,Western,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000208,Western,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000142,Western,Female,26.0,Tertiary/University,Teacher,Yes,It’s a virus that can cause a disease,No,Yes
+1000222,Western,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000308,Western,Female,23.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000146,Western,Female,19.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000298,Central,Female,25.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000236,Western,Female,20.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes
+1000297,Ashanti,Female,20.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,No
+1000296,Greater Accra,Female,27.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000250,Central,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000145,Western,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000273,Eastern,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000127,Volta,Male,27.0,Tertiary/University,Other,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000247,Western,Female,23.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000227,Greater Accra,Female,21.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,No,Yes
+1000265,Western,Female,22.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Yes,Yes
+1000311,Ashanti,Female,23.0,Tertiary/University,Student,Yes,It’s a virus that can cause a disease,Don´t know,Yes

@@ -1,0 +1,919 @@
+id,High_Risk_Groups
+1000205,Children under 5 years old
+1000176,Adolescents up to 15 years old
+1000176,Youth
+1000176,Adults
+1000176,Elderly persons
+1000176,Health workers
+1000301,Children under 5 years old
+1000301,Adolescents up to 15 years old
+1000301,Youth
+1000301,Adults
+1000301,Elderly persons
+1000301,Pregnant women
+1000301,Health workers
+1000315,Health workers
+1000187,Children under 5 years old
+1000187,Adolescents up to 15 years old
+1000187,Youth
+1000187,Adults
+1000187,Elderly persons
+1000187,Pregnant women
+1000187,Health workers
+1000171,Health workers
+1000212,Children under 5 years old
+1000212,Adolescents up to 15 years old
+1000212,Youth
+1000212,Adults
+1000212,Elderly persons
+1000212,Pregnant women
+1000212,Health workers
+1000217,Children under 5 years old
+1000217,Adolescents up to 15 years old
+1000217,Youth
+1000217,Adults
+1000217,Elderly persons
+1000217,Pregnant women
+1000217,Health workers
+1000237,Youth
+1000237,Health workers
+1000121,Adults
+1000121,Elderly persons
+1000121,Pregnant women
+1000285,Children under 5 years old
+1000285,Elderly persons
+1000285,Pregnant women
+1000233,Health workers
+1000261,Youth
+1000261,Adults
+1000261,Elderly persons
+1000261,Pregnant women
+1000261,Health workers
+1000104,Children under 5 years old
+1000104,Adolescents up to 15 years old
+1000104,Youth
+1000104,Adults
+1000104,Elderly persons
+1000104,Pregnant women
+1000104,Health workers
+1000147,Adolescents up to 15 years old
+1000147,Youth
+1000147,Adults
+1000147,Elderly persons
+1000147,Pregnant women
+1000147,Health workers
+1000174,Elderly persons
+1000174,Health workers
+1000225,Children under 5 years old
+1000225,Elderly persons
+1000225,Pregnant women
+1000225,Health workers
+1000275,Children under 5 years old
+1000275,Youth
+1000275,Adults
+1000275,Health workers
+1000119,Adolescents up to 15 years old
+1000119,Youth
+1000119,Adults
+1000119,Elderly persons
+1000119,Pregnant women
+1000119,Health workers
+1000128,Elderly persons
+1000128,Pregnant women
+1000128,Health workers
+1000141,Pregnant women
+1000141,Health workers
+1000185,Children under 5 years old
+1000185,Youth
+1000185,Elderly persons
+1000185,Pregnant women
+1000185,Health workers
+1000122,Elderly persons
+1000167,Elderly persons
+1000117,Children under 5 years old
+1000117,Adolescents up to 15 years old
+1000117,Youth
+1000117,Adults
+1000117,Elderly persons
+1000117,Pregnant women
+1000117,Health workers
+1000111,Adolescents up to 15 years old
+1000111,Youth
+1000111,Health workers
+1000290,Children under 5 years old
+1000290,Adolescents up to 15 years old
+1000290,Youth
+1000290,Adults
+1000290,Elderly persons
+1000290,Pregnant women
+1000290,Health workers
+1000131,Adolescents up to 15 years old
+1000131,Youth
+1000131,Adults
+1000131,Elderly persons
+1000131,Pregnant women
+1000131,Health workers
+1000226,Elderly persons
+1000226,Health workers
+1000289,Children under 5 years old
+1000204,Children under 5 years old
+1000204,Adults
+1000204,Elderly persons
+1000204,Pregnant women
+1000204,Health workers
+1000190,Children under 5 years old
+1000190,Adolescents up to 15 years old
+1000190,Youth
+1000190,Adults
+1000190,Elderly persons
+1000190,Pregnant women
+1000190,Health workers
+1000214,Youth
+1000214,Adults
+1000214,Elderly persons
+1000214,Pregnant women
+1000199,Children under 5 years old
+1000199,Adults
+1000199,Elderly persons
+1000199,Pregnant women
+1000199,Health workers
+1000155,Youth
+1000155,Adults
+1000155,Elderly persons
+1000155,Health workers
+1000135,Children under 5 years old
+1000135,Adolescents up to 15 years old
+1000135,Youth
+1000135,Adults
+1000135,Elderly persons
+1000135,Pregnant women
+1000135,Health workers
+1000177,Adolescents up to 15 years old
+1000177,Youth
+1000177,Adults
+1000177,Health workers
+1000116,Children under 5 years old
+1000116,Adolescents up to 15 years old
+1000116,Youth
+1000116,Adults
+1000116,Health workers
+1000206,Adults
+1000206,Elderly persons
+1000206,Health workers
+1000318,Children under 5 years old
+1000318,Adolescents up to 15 years old
+1000318,Youth
+1000318,Adults
+1000318,Elderly persons
+1000318,Pregnant women
+1000318,Health workers
+1000271,Adults
+1000271,Elderly persons
+1000271,Health workers
+1000295,Children under 5 years old
+1000295,Adolescents up to 15 years old
+1000295,Youth
+1000295,Adults
+1000295,Elderly persons
+1000295,Pregnant women
+1000295,Health workers
+1000158,Youth
+1000246,Youth
+1000246,Adults
+1000246,Elderly persons
+1000196,Children under 5 years old
+1000196,Adolescents up to 15 years old
+1000196,Youth
+1000196,Adults
+1000196,Elderly persons
+1000196,Pregnant women
+1000196,Health workers
+1000189,Children under 5 years old
+1000189,Adolescents up to 15 years old
+1000189,Youth
+1000189,Adults
+1000189,Elderly persons
+1000189,Pregnant women
+1000189,Health workers
+1000268,Children under 5 years old
+1000268,Adults
+1000268,Elderly persons
+1000268,Pregnant women
+1000268,Health workers
+1000203,Youth
+1000203,Adults
+1000203,Elderly persons
+1000203,Health workers
+1000114,Elderly persons
+1000219,Adults
+1000219,Elderly persons
+1000302,Adolescents up to 15 years old
+1000302,Youth
+1000302,Adults
+1000302,Elderly persons
+1000302,Pregnant women
+1000302,Health workers
+1000260,Children under 5 years old
+1000260,Adolescents up to 15 years old
+1000260,Youth
+1000260,Pregnant women
+1000260,Health workers
+1000239,Children under 5 years old
+1000239,Adolescents up to 15 years old
+1000239,Youth
+1000239,Adults
+1000239,Elderly persons
+1000239,Health workers
+1000194,Health workers
+1000198,Children under 5 years old
+1000198,Health workers
+1000162,Children under 5 years old
+1000162,Elderly persons
+1000162,Pregnant women
+1000136,Children under 5 years old
+1000136,Adolescents up to 15 years old
+1000136,Youth
+1000136,Adults
+1000136,Elderly persons
+1000136,Pregnant women
+1000136,Health workers
+1000181,Children under 5 years old
+1000181,Elderly persons
+1000210,Children under 5 years old
+1000210,Elderly persons
+1000139,Children under 5 years old
+1000139,Adolescents up to 15 years old
+1000139,Youth
+1000139,Adults
+1000139,Elderly persons
+1000139,Pregnant women
+1000139,Health workers
+1000133,Elderly persons
+1000133,Health workers
+1000243,Children under 5 years old
+1000243,Adolescents up to 15 years old
+1000243,Elderly persons
+1000169,Youth
+1000169,Adults
+1000169,Elderly persons
+1000169,Health workers
+1000182,Health workers
+1000170,Elderly persons
+1000101,Adults
+1000101,Elderly persons
+1000101,Health workers
+1000267,Children under 5 years old
+1000267,Adolescents up to 15 years old
+1000267,Youth
+1000267,Pregnant women
+1000267,Health workers
+1000134,Children under 5 years old
+1000134,Elderly persons
+1000134,Health workers
+1000221,Youth
+1000221,Adults
+1000221,Elderly persons
+1000148,Elderly persons
+1000252,Youth
+1000252,Elderly persons
+1000252,Health workers
+1000274,Children under 5 years old
+1000274,Adolescents up to 15 years old
+1000274,Youth
+1000274,Adults
+1000274,Elderly persons
+1000274,Pregnant women
+1000274,Health workers
+1000144,Children under 5 years old
+1000144,Elderly persons
+1000144,Pregnant women
+1000144,Health workers
+1000220,Children under 5 years old
+1000220,Elderly persons
+1000220,Pregnant women
+1000220,Health workers
+1000192,Children under 5 years old
+1000192,Adolescents up to 15 years old
+1000192,Youth
+1000192,Adults
+1000192,Elderly persons
+1000192,Pregnant women
+1000192,Health workers
+1000253,Children under 5 years old
+1000253,Youth
+1000253,Adults
+1000253,Elderly persons
+1000215,Children under 5 years old
+1000215,Elderly persons
+1000215,Health workers
+1000157,Children under 5 years old
+1000157,Adolescents up to 15 years old
+1000157,Youth
+1000157,Adults
+1000157,Elderly persons
+1000157,Pregnant women
+1000157,Health workers
+1000113,Children under 5 years old
+1000113,Adolescents up to 15 years old
+1000113,Youth
+1000113,Adults
+1000113,Elderly persons
+1000113,Pregnant women
+1000113,Health workers
+1000140,Adolescents up to 15 years old
+1000140,Youth
+1000140,Adults
+1000140,Elderly persons
+1000140,Pregnant women
+1000211,Children under 5 years old
+1000211,Youth
+1000197,Adolescents up to 15 years old
+1000197,Youth
+1000197,Adults
+1000197,Elderly persons
+1000197,Health workers
+1000313,Children under 5 years old
+1000313,Adolescents up to 15 years old
+1000313,Youth
+1000313,Adults
+1000313,Elderly persons
+1000313,Pregnant women
+1000313,Health workers
+1000266,Children under 5 years old
+1000266,Adolescents up to 15 years old
+1000266,Youth
+1000266,Adults
+1000266,Elderly persons
+1000266,Pregnant women
+1000266,Health workers
+1000108,Adolescents up to 15 years old
+1000108,Youth
+1000108,Adults
+1000108,Elderly persons
+1000108,Health workers
+1000164,Elderly persons
+1000164,Health workers
+1000110,Elderly persons
+1000110,Health workers
+1000103,Children under 5 years old
+1000103,Adolescents up to 15 years old
+1000103,Youth
+1000103,Adults
+1000103,Elderly persons
+1000103,Health workers
+1000256,Adults
+1000256,Elderly persons
+1000256,Pregnant women
+1000264,Children under 5 years old
+1000264,Adolescents up to 15 years old
+1000264,Youth
+1000264,Adults
+1000264,Elderly persons
+1000264,Pregnant women
+1000193,Elderly persons
+1000244,Youth
+1000244,Adults
+1000244,Elderly persons
+1000244,Pregnant women
+1000244,Health workers
+1000283,Children under 5 years old
+1000283,Adolescents up to 15 years old
+1000283,Youth
+1000283,Adults
+1000283,Elderly persons
+1000283,Pregnant women
+1000283,Health workers
+1000159,Children under 5 years old
+1000159,Youth
+1000159,Adults
+1000159,Elderly persons
+1000159,Health workers
+1000262,Adults
+1000262,Elderly persons
+1000126,Children under 5 years old
+1000126,Elderly persons
+1000126,Pregnant women
+1000126,Health workers
+1000254,Children under 5 years old
+1000254,Adolescents up to 15 years old
+1000254,Youth
+1000254,Adults
+1000254,Elderly persons
+1000254,Pregnant women
+1000254,Health workers
+1000152,Adolescents up to 15 years old
+1000152,Youth
+1000152,Adults
+1000152,Elderly persons
+1000152,Pregnant women
+1000152,Health workers
+1000238,Children under 5 years old
+1000238,Adolescents up to 15 years old
+1000238,Youth
+1000238,Adults
+1000238,Elderly persons
+1000238,Pregnant women
+1000238,Health workers
+1000277,Elderly persons
+1000277,Health workers
+1000106,Adults
+1000106,Elderly persons
+1000106,Health workers
+1000130,Children under 5 years old
+1000130,Adolescents up to 15 years old
+1000130,Youth
+1000130,Adults
+1000130,Elderly persons
+1000130,Pregnant women
+1000130,Health workers
+1000224,Children under 5 years old
+1000224,Adolescents up to 15 years old
+1000224,Adults
+1000224,Pregnant women
+1000224,Health workers
+1000143,Elderly persons
+1000143,Health workers
+1000161,Children under 5 years old
+1000161,Adolescents up to 15 years old
+1000161,Youth
+1000161,Adults
+1000161,Elderly persons
+1000161,Pregnant women
+1000161,Health workers
+1000137,Youth
+1000137,Adults
+1000137,Pregnant women
+1000137,Health workers
+1000201,Youth
+1000201,Adults
+1000201,Elderly persons
+1000201,Pregnant women
+1000201,Health workers
+1000300,Youth
+1000300,Adults
+1000300,Elderly persons
+1000300,Health workers
+1000317,Adults
+1000317,Elderly persons
+1000317,Pregnant women
+1000317,Health workers
+1000314,Children under 5 years old
+1000314,Adolescents up to 15 years old
+1000314,Youth
+1000314,Adults
+1000314,Elderly persons
+1000314,Pregnant women
+1000314,Health workers
+1000235,Adolescents up to 15 years old
+1000235,Youth
+1000235,Adults
+1000235,Elderly persons
+1000235,Health workers
+1000320,Elderly persons
+1000304,Children under 5 years old
+1000304,Adolescents up to 15 years old
+1000304,Youth
+1000304,Adults
+1000304,Elderly persons
+1000304,Pregnant women
+1000304,Health workers
+1000195,Adolescents up to 15 years old
+1000195,Youth
+1000195,Health workers
+1000292,Children under 5 years old
+1000292,Elderly persons
+1000292,Health workers
+1000163,Children under 5 years old
+1000163,Adolescents up to 15 years old
+1000163,Youth
+1000163,Adults
+1000163,Elderly persons
+1000163,Pregnant women
+1000163,Health workers
+1000307,Adults
+1000307,Elderly persons
+1000307,Health workers
+1000153,Children under 5 years old
+1000153,Adolescents up to 15 years old
+1000153,Youth
+1000153,Adults
+1000153,Elderly persons
+1000153,Pregnant women
+1000153,Health workers
+1000132,Adults
+1000132,Elderly persons
+1000132,Health workers
+1000168,Adults
+1000168,Elderly persons
+1000306,Children under 5 years old
+1000306,Adolescents up to 15 years old
+1000306,Youth
+1000306,Elderly persons
+1000306,Health workers
+1000180,Adults
+1000180,Elderly persons
+1000180,Health workers
+1000151,Children under 5 years old
+1000151,Adolescents up to 15 years old
+1000151,Adults
+1000165,Children under 5 years old
+1000154,Adolescents up to 15 years old
+1000154,Adults
+1000154,Elderly persons
+1000154,Health workers
+1000231,Elderly persons
+1000269,Youth
+1000269,Adults
+1000269,Elderly persons
+1000175,Youth
+1000175,Adults
+1000175,Pregnant women
+1000175,Health workers
+1000188,Children under 5 years old
+1000188,Elderly persons
+1000123,Adults
+1000109,Adolescents up to 15 years old
+1000109,Youth
+1000109,Adults
+1000109,Elderly persons
+1000109,Health workers
+1000270,Health workers
+1000229,Adolescents up to 15 years old
+1000229,Youth
+1000229,Adults
+1000229,Elderly persons
+1000150,Children under 5 years old
+1000150,Adolescents up to 15 years old
+1000150,Youth
+1000150,Adults
+1000150,Elderly persons
+1000150,Pregnant women
+1000150,Health workers
+1000319,Children under 5 years old
+1000319,Adolescents up to 15 years old
+1000319,Youth
+1000319,Adults
+1000319,Pregnant women
+1000319,Health workers
+1000124,Children under 5 years old
+1000124,Adults
+1000124,Elderly persons
+1000124,Pregnant women
+1000124,Health workers
+1000160,Children under 5 years old
+1000160,Adolescents up to 15 years old
+1000160,Youth
+1000160,Adults
+1000160,Elderly persons
+1000160,Pregnant women
+1000160,Health workers
+1000184,Children under 5 years old
+1000184,Youth
+1000184,Elderly persons
+1000184,Pregnant women
+1000184,Health workers
+1000172,Children under 5 years old
+1000172,Elderly persons
+1000172,Pregnant women
+1000240,Youth
+1000240,Adults
+1000240,Elderly persons
+1000240,Health workers
+1000112,Elderly persons
+1000112,Health workers
+1000263,Adults
+1000263,Elderly persons
+1000263,Pregnant women
+1000263,Health workers
+1000322,Elderly persons
+1000138,Youth
+1000138,Adults
+1000138,Elderly persons
+1000138,Pregnant women
+1000138,Health workers
+1000310,Adolescents up to 15 years old
+1000310,Youth
+1000310,Adults
+1000310,Elderly persons
+1000310,Health workers
+1000257,Children under 5 years old
+1000257,Adolescents up to 15 years old
+1000257,Youth
+1000257,Adults
+1000257,Elderly persons
+1000257,Pregnant women
+1000257,Health workers
+1000287,Children under 5 years old
+1000287,Adolescents up to 15 years old
+1000287,Youth
+1000287,Adults
+1000287,Elderly persons
+1000287,Pregnant women
+1000287,Health workers
+1000213,Elderly persons
+1000213,Health workers
+1000218,Adults
+1000305,Children under 5 years old
+1000305,Adolescents up to 15 years old
+1000305,Youth
+1000305,Adults
+1000305,Elderly persons
+1000305,Pregnant women
+1000305,Health workers
+1000118,Adults
+1000118,Elderly persons
+1000118,Health workers
+1000200,Children under 5 years old
+1000200,Elderly persons
+1000200,Pregnant women
+1000248,Children under 5 years old
+1000248,Adults
+1000248,Elderly persons
+1000248,Pregnant women
+1000248,Health workers
+1000280,Children under 5 years old
+1000280,Elderly persons
+1000280,Pregnant women
+1000280,Health workers
+1000234,Children under 5 years old
+1000234,Adolescents up to 15 years old
+1000234,Youth
+1000234,Adults
+1000234,Pregnant women
+1000234,Health workers
+1000282,Elderly persons
+1000228,Children under 5 years old
+1000228,Youth
+1000228,Adults
+1000228,Elderly persons
+1000228,Pregnant women
+1000228,Health workers
+1000242,Children under 5 years old
+1000242,Adults
+1000242,Elderly persons
+1000242,Pregnant women
+1000242,Health workers
+1000312,Adolescents up to 15 years old
+1000312,Youth
+1000312,Adults
+1000312,Pregnant women
+1000312,Health workers
+1000281,Children under 5 years old
+1000281,Adolescents up to 15 years old
+1000281,Youth
+1000281,Adults
+1000281,Elderly persons
+1000281,Pregnant women
+1000281,Health workers
+1000120,Children under 5 years old
+1000120,Elderly persons
+1000120,Pregnant women
+1000120,Health workers
+1000230,Children under 5 years old
+1000230,Adolescents up to 15 years old
+1000230,Youth
+1000230,Adults
+1000230,Elderly persons
+1000230,Pregnant women
+1000230,Health workers
+1000209,Youth
+1000209,Adults
+1000276,Health workers
+1000232,Elderly persons
+1000232,Pregnant women
+1000232,Health workers
+1000245,Youth
+1000125,Children under 5 years old
+1000125,Adults
+1000125,Elderly persons
+1000125,Pregnant women
+1000125,Health workers
+1000286,Adolescents up to 15 years old
+1000286,Youth
+1000286,Adults
+1000286,Elderly persons
+1000286,Pregnant women
+1000286,Health workers
+1000255,Children under 5 years old
+1000255,Adolescents up to 15 years old
+1000255,Youth
+1000255,Elderly persons
+1000255,Health workers
+1000272,Children under 5 years old
+1000272,Adolescents up to 15 years old
+1000272,Youth
+1000272,Adults
+1000272,Elderly persons
+1000272,Pregnant women
+1000272,Health workers
+1000249,Adolescents up to 15 years old
+1000249,Youth
+1000249,Adults
+1000249,Elderly persons
+1000249,Health workers
+1000258,Elderly persons
+1000294,Adolescents up to 15 years old
+1000294,Youth
+1000294,Adults
+1000294,Elderly persons
+1000294,Pregnant women
+1000294,Health workers
+1000216,Elderly persons
+1000216,Health workers
+1000156,Children under 5 years old
+1000156,Elderly persons
+1000156,Pregnant women
+1000156,Health workers
+1000102,Children under 5 years old
+1000102,Adolescents up to 15 years old
+1000102,Youth
+1000102,Adults
+1000102,Elderly persons
+1000102,Pregnant women
+1000102,Health workers
+1000166,Adults
+1000166,Elderly persons
+1000166,Pregnant women
+1000166,Health workers
+1000207,Children under 5 years old
+1000207,Adolescents up to 15 years old
+1000207,Youth
+1000207,Adults
+1000207,Elderly persons
+1000207,Pregnant women
+1000207,Health workers
+1000309,Children under 5 years old
+1000309,Adolescents up to 15 years old
+1000309,Youth
+1000309,Adults
+1000309,Elderly persons
+1000309,Pregnant women
+1000309,Health workers
+1000202,Youth
+1000202,Adults
+1000202,Elderly persons
+1000202,Pregnant women
+1000202,Health workers
+1000100,Children under 5 years old
+1000100,Adolescents up to 15 years old
+1000100,Youth
+1000100,Adults
+1000100,Elderly persons
+1000100,Pregnant women
+1000100,Health workers
+1000299,Adults
+1000299,Elderly persons
+1000299,Pregnant women
+1000241,Elderly persons
+1000303,Adolescents up to 15 years old
+1000303,Youth
+1000303,Adults
+1000303,Elderly persons
+1000303,Pregnant women
+1000303,Health workers
+1000288,Youth
+1000291,Adults
+1000291,Elderly persons
+1000291,Health workers
+1000183,Children under 5 years old
+1000183,Youth
+1000183,Elderly persons
+1000183,Pregnant women
+1000183,Health workers
+1000316,Adults
+1000316,Elderly persons
+1000316,Health workers
+1000223,Elderly persons
+1000223,Pregnant women
+1000173,Health workers
+1000293,Children under 5 years old
+1000293,Adolescents up to 15 years old
+1000293,Youth
+1000293,Adults
+1000293,Elderly persons
+1000293,Pregnant women
+1000293,Health workers
+1000284,Children under 5 years old
+1000284,Elderly persons
+1000284,Health workers
+1000186,Children under 5 years old
+1000186,Adolescents up to 15 years old
+1000186,Youth
+1000186,Adults
+1000186,Elderly persons
+1000186,Pregnant women
+1000186,Health workers
+1000129,Elderly persons
+1000191,Adolescents up to 15 years old
+1000191,Youth
+1000191,Adults
+1000191,Pregnant women
+1000191,Health workers
+1000251,Youth
+1000251,Adults
+1000251,Elderly persons
+1000251,Health workers
+1000179,Elderly persons
+1000179,Health workers
+1000178,Children under 5 years old
+1000178,Adolescents up to 15 years old
+1000178,Youth
+1000178,Adults
+1000178,Elderly persons
+1000178,Pregnant women
+1000107,Youth
+1000107,Health workers
+1000321,Children under 5 years old
+1000321,Adolescents up to 15 years old
+1000321,Youth
+1000321,Adults
+1000321,Elderly persons
+1000321,Pregnant women
+1000321,Health workers
+1000115,Elderly persons
+1000115,Health workers
+1000259,Elderly persons
+1000105,Elderly persons
+1000279,Children under 5 years old
+1000279,Adolescents up to 15 years old
+1000279,Youth
+1000279,Adults
+1000279,Elderly persons
+1000279,Pregnant women
+1000279,Health workers
+1000149,Children under 5 years old
+1000149,Adolescents up to 15 years old
+1000149,Youth
+1000149,Adults
+1000149,Elderly persons
+1000149,Pregnant women
+1000149,Health workers
+1000208,Youth
+1000208,Adults
+1000208,Elderly persons
+1000142,Elderly persons
+1000142,Health workers
+1000222,Children under 5 years old
+1000222,Adolescents up to 15 years old
+1000222,Youth
+1000222,Adults
+1000222,Elderly persons
+1000222,Pregnant women
+1000222,Health workers
+1000308,Adolescents up to 15 years old
+1000308,Elderly persons
+1000308,Health workers
+1000146,Youth
+1000146,Adults
+1000146,Elderly persons
+1000146,Pregnant women
+1000146,Health workers
+1000298,Children under 5 years old
+1000298,Adolescents up to 15 years old
+1000298,Youth
+1000298,Adults
+1000298,Elderly persons
+1000298,Pregnant women
+1000298,Health workers
+1000236,Children under 5 years old
+1000236,Elderly persons
+1000236,Pregnant women
+1000236,Health workers
+1000297,Elderly persons
+1000297,Health workers
+1000296,Youth
+1000296,Adults
+1000296,Elderly persons
+1000296,Pregnant women
+1000296,Health workers
+1000250,Youth
+1000250,Adults
+1000145,Youth
+1000145,Adults
+1000145,Elderly persons
+1000145,Pregnant women
+1000145,Health workers
+1000273,Youth
+1000273,Adults
+1000273,Elderly persons
+1000127,Children under 5 years old
+1000127,Adolescents up to 15 years old
+1000127,Youth
+1000127,Adults
+1000127,Elderly persons
+1000127,Pregnant women
+1000127,Health workers
+1000247,Youth
+1000247,Adults
+1000247,Elderly persons
+1000247,Pregnant women
+1000247,Health workers
+1000227,Health workers
+1000265,Children under 5 years old
+1000265,Adolescents up to 15 years old
+1000265,Youth
+1000265,Adults
+1000265,Elderly persons
+1000265,Pregnant women
+1000265,Health workers
+1000311,Youth
