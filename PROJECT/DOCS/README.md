@@ -4,13 +4,13 @@ This project is a Streamlit-based infogram designed to visualize and analyze sur
 Check final infograph at https://risk-awareness-cv.streamlit.app/
 
 Screenshots:
-![Screenshot 1](screenshot1.png)
+![Screenshot 1](/PROJECT/DOCS/screenshot1.png)
 
 
-![Screenshot 3](screenshot3.png)
+![Screenshot 3](/PROJECT/DOCS/screenshot3.png)
 
 
-![Screenshot 2](screenshot2.png)
+![Screenshot 2](/PROJECT/DOCS/screenshot2.png)
 
 ## Features
 
