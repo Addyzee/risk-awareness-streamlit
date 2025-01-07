@@ -1,5 +1,6 @@
 {
     "project_name": "Risk Awareness Infogram",
+    "category":"Data visualization",
     "keywords": ["data visualization", "web apps", "COVID-19 risk awareness", "interactive dashboards"],
     "languages/tools": ["Python","pandas", "streamlit", "numpy"],
     "year": 2024,
